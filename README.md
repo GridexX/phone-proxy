@@ -1,4 +1,5 @@
 # CapturePhoneTraffic
+![proxy](https://user-images.githubusercontent.com/50552672/233111007-8da7cc41-99d8-4bcc-883c-92e884dd95d8.png)
 
 A simple application, to capture your traffic from your phone.
 
